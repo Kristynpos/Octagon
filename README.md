@@ -37,11 +37,11 @@ pip install octagon
 
 ## Contributing
 
-1. Fork it (<https://github.com/Cloud11665/Octagon/fork>)
+1. Fork it (<https://github.com/Kristynpos/Octagon/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
 ## License
-Distributed under the MIT license. See [``LICENSE``](https://github.com/Cloud11665/Octagon/blob/master/LICENSE) for more information.
+Distributed under the MIT license. See [``LICENSE``](https://github.com/Kristynpos/Octagon/blob/master/LICENSE) for more information.
